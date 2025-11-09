@@ -44,7 +44,7 @@ body {
 
 #chat-form button {
   padding: 8px 12px;
-  background: #007bff;
+  background: #567985;
   border: none;
   color: white;
   border-radius: 5px;
@@ -52,5 +52,5 @@ body {
 }
 
 #chat-form button:hover {
-  background: #0056b3;
+  background: #2c5463;
 }
